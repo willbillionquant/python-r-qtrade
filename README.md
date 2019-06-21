@@ -1,10 +1,10 @@
 # python-r-qtrade
-Resources about quantitative trading with python.
+Resources about quantitative trading with Python or R.
 
-* [python-finance-notebooks](https://github.com/willbillionquant/python-r-qtrade/tree/master/python-finance-notebooks)
+* [equities-portfolio](https://github.com/willbillionquant/python-r-qtrade/tree/master/equities-portfolio)
 
-Some jupyter notebooks about exploring financial concepts.
+Some jupyter notebooks about optimizing a portfolio.
 
-* [r-tiingo-alerts](https://github.com/willbillionquant/python-r-qtrade/tree/master/r-tiingo-alerts)
+* [equities-data-api](https://github.com/willbillionquant/python-r-qtrade/tree/master/equities-data-api)
 
-R-scripts for scraping US equities daily data and analytics. 
+Jupyter notebook for simple examples of various finance data APIs.
