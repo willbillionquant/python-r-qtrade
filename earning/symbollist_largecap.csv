@@ -1,0 +1,507 @@
+symbol,ex_code,sectype,currency,name,sector,industry,startdate,enddate
+A,ARCA,largecap,USD,Agilent Technologies Inc,Health Care,Health Care Equipment,1999-11-18,2020-05-11
+AAL,ARCA,largecap,USD,American Airlines Group,Industrials,Airlines,2005-09-27,2020-05-11
+AAP,ARCA,largecap,USD,Advance Auto Parts,Consumer Discretionary,Automotive Retail,2001-11-29,2020-05-11
+AAPL,ARCA,largecap,USD,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",1994-01-03,2020-05-11
+ABBV,ARCA,largecap,USD,AbbVie Inc.,Health Care,Pharmaceuticals,2013-01-02,2020-05-11
+ABC,ARCA,largecap,USD,AmerisourceBergen Corp,Health Care,Health Care Distributors,1995-04-04,2020-05-11
+ABMD,ARCA,largecap,USD,ABIOMED Inc,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+ABT,ARCA,largecap,USD,Abbott Laboratories,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+ACN,ARCA,largecap,USD,Accenture plc,Information Technology,IT Consulting & Other Services,2001-07-19,2020-05-11
+ADBE,ARCA,largecap,USD,Adobe Systems Inc,Information Technology,Application Software,1994-01-03,2020-05-11
+ADI,ARCA,largecap,USD,"Analog Devices, Inc.",Information Technology,Semiconductors,1994-01-03,2020-05-11
+ADM,ARCA,largecap,USD,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products,1994-01-03,2020-05-11
+ADP,ARCA,largecap,USD,Automatic Data Processing,Information Technology,Internet Services & Infrastructure,1994-01-03,2020-05-11
+ADS,ARCA,largecap,USD,Alliance Data Systems,Information Technology,Data Processing & Outsourced Services,2001-06-15,2020-05-11
+ADSK,ARCA,largecap,USD,Autodesk Inc.,Information Technology,Application Software,1994-01-03,2020-05-11
+AEE,ARCA,largecap,USD,Ameren Corp,Utilities,Multi-Utilities,1998-01-02,2020-05-11
+AEP,ARCA,largecap,USD,American Electric Power,Utilities,Electric Utilities,1994-01-03,2020-05-11
+AES,ARCA,largecap,USD,AES Corp,Utilities,Independent Power Producers & Energy Traders,1994-01-03,2020-05-11
+AFL,ARCA,largecap,USD,AFLAC Inc,Financials,Life & Health Insurance,1994-01-03,2020-05-11
+AIG,ARCA,largecap,USD,American International Group,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+AIV,ARCA,largecap,USD,Apartment Investment & Management,Real Estate,Residential REITs,1994-07-22,2020-05-11
+AIZ,ARCA,largecap,USD,Assurant,Financials,Multi-line Insurance,2004-02-05,2020-05-11
+AJG,ARCA,largecap,USD,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,1994-01-03,2020-05-11
+AKAM,ARCA,largecap,USD,Akamai Technologies Inc,Information Technology,Internet Services & Infrastructure,1999-10-29,2020-05-11
+ALB,ARCA,largecap,USD,Albemarle Corp,Materials,Specialty Chemicals,1994-02-22,2020-05-11
+ALGN,ARCA,largecap,USD,Align Technology,Health Care,Health Care Supplies,2001-01-30,2020-05-11
+ALK,ARCA,largecap,USD,Alaska Air Group Inc,Industrials,Airlines,1994-01-03,2020-05-11
+ALL,ARCA,largecap,USD,Allstate Corp,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+ALLE,ARCA,largecap,USD,Allegion,Industrials,Building Products,2013-11-18,2020-05-11
+ALXN,ARCA,largecap,USD,Alexion Pharmaceuticals,Health Care,Biotechnology,1996-02-28,2020-05-11
+AMAT,ARCA,largecap,USD,Applied Materials Inc.,Information Technology,Semiconductor Equipment,1994-01-03,2020-05-11
+AMD,ARCA,largecap,USD,Advanced Micro Devices Inc,Information Technology,Semiconductors,1994-01-03,2020-05-11
+AME,ARCA,largecap,USD,AMETEK Inc.,Industrials,Electrical Components & Equipment,1994-01-03,2020-05-11
+AMG,ARCA,largecap,USD,Affiliated Managers Group Inc,Financials,Asset Management & Custody Banks,1997-11-21,2020-05-11
+AMGN,ARCA,largecap,USD,Amgen Inc.,Health Care,Biotechnology,1994-01-03,2020-05-11
+AMP,ARCA,largecap,USD,Ameriprise Financial,Financials,Asset Management & Custody Banks,2005-09-15,2020-05-11
+AMT,ARCA,largecap,USD,American Tower Corp.,Real Estate,Specialized REITs,1998-02-27,2020-05-11
+AMZN,ARCA,largecap,USD,Amazon.com Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,1997-05-15,2020-05-11
+ANET,ARCA,largecap,USD,Arista Networks,Information Technology,Communications Equipment,2014-06-06,2020-05-11
+ANSS,ARCA,largecap,USD,ANSYS,Information Technology,Application Software,1996-06-20,2020-05-11
+ANTM,ARCA,largecap,USD,Anthem,Health Care,Managed Health Care,2001-10-30,2020-05-11
+AON,ARCA,largecap,USD,Aon plc,Financials,Insurance Brokers,1994-01-03,2020-05-11
+AOS,ARCA,largecap,USD,A.O. Smith Corp,Industrials,Building Products,1994-01-03,2020-05-11
+APA,ARCA,largecap,USD,Apache Corporation,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+APD,ARCA,largecap,USD,Air Products & Chemicals Inc,Materials,Industrial Gases,1994-01-03,2020-05-11
+APH,ARCA,largecap,USD,Amphenol Corp,Information Technology,Electronic Components,1994-01-03,2020-05-11
+APTV,ARCA,largecap,USD,Aptiv Plc,Consumer Discretionary,Auto Parts & Equipment,2011-11-17,2020-05-11
+ARE,ARCA,largecap,USD,Alexandria Real Estate Equities,Real Estate,Office REITs,1997-05-28,2020-05-11
+ARNC,ARCA,largecap,USD,Arconic Inc.,Industrials,Aerospace & Defense,1994-01-03,2020-05-11
+ATO,ARCA,largecap,USD,Atmos Energy Corp,Utilities,Gas Utilities,1994-01-03,2020-05-11
+ATVI,ARCA,largecap,USD,Activision Blizzard,Information Technology,Interactive Home Entertainment,1994-01-03,2020-05-11
+AVB,ARCA,largecap,USD,"AvalonBay Communities, Inc.",Real Estate,Residential REITs,1994-03-11,2020-05-11
+AVGO,ARCA,largecap,USD,Broadcom Inc.,Information Technology,Semiconductors,2009-08-06,2020-05-11
+AVY,ARCA,largecap,USD,Avery Dennison Corp,Materials,Paper Packaging,1994-01-03,2020-05-11
+AWK,ARCA,largecap,USD,American Water Works Company Inc,Utilities,Water Utilities,2008-04-23,2020-05-11
+AXP,ARCA,largecap,USD,American Express Co,Financials,Consumer Finance,1994-01-03,2020-05-11
+AZO,ARCA,largecap,USD,AutoZone Inc,Consumer Discretionary,Specialty Stores,1994-01-03,2020-05-11
+BA,ARCA,largecap,USD,Boeing Company,Industrials,Aerospace & Defense,1994-01-03,2020-05-11
+BAC,ARCA,largecap,USD,Bank of America Corp,Financials,Diversified Banks,1994-01-03,2020-05-11
+BAX,ARCA,largecap,USD,Baxter International Inc.,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+BBY,ARCA,largecap,USD,Best Buy Co. Inc.,Consumer Discretionary,Computer & Electronics Retail,1994-01-03,2020-05-11
+BDX,ARCA,largecap,USD,Becton Dickinson,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+BEN,ARCA,largecap,USD,Franklin Resources,Financials,Asset Management & Custody Banks,1994-01-03,2020-05-11
+BIIB,ARCA,largecap,USD,Biogen Inc.,Health Care,Biotechnology,1994-01-03,2020-05-11
+BK,ARCA,largecap,USD,The Bank of New York Mellon Corp.,Financials,Asset Management & Custody Banks,1994-01-03,2020-05-11
+BKNG,ARCA,largecap,USD,Booking Holdings Inc,Consumer Discretionary,Internet & Direct Marketing Retail,1999-03-31,2020-05-11
+BLK,ARCA,largecap,USD,BlackRock,Financials,Asset Management & Custody Banks,1999-10-01,2020-05-11
+BLL,ARCA,largecap,USD,Ball Corp,Materials,Metal & Glass Containers,1994-01-03,2020-05-11
+BMY,ARCA,largecap,USD,Bristol-Myers Squibb,Health Care,Health Care Distributors,1994-01-03,2020-05-11
+BR,ARCA,largecap,USD,Broadridge Financial Solutions,Information Technology,Data Processing & Outsourced Services,2007-04-02,2020-05-11
+BSX,ARCA,largecap,USD,Boston Scientific,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+BWA,ARCA,largecap,USD,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,1994-01-03,2020-05-11
+BXP,ARCA,largecap,USD,Boston Properties,Real Estate,Office REITs,1997-06-18,2020-05-11
+C,ARCA,largecap,USD,Citigroup Inc.,Financials,Diversified Banks,1994-01-03,2020-05-11
+CAG,ARCA,largecap,USD,Conagra Brands,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+CAH,ARCA,largecap,USD,Cardinal Health Inc.,Health Care,Health Care Distributors,1994-01-03,2020-05-11
+CARR,ARCA,largecap,USD,Carrier Global,Industrials,Building Products,2020-03-19,2020-05-11
+CAT,ARCA,largecap,USD,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Trucks,1994-01-03,2020-05-11
+CB,ARCA,largecap,USD,Chubb Limited,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+CBOE,ARCA,largecap,USD,Cboe Global Markets,Financials,Financial Exchanges & Data,2010-06-15,2020-05-11
+CBRE,ARCA,largecap,USD,CBRE Group,Real Estate,Real Estate Services,2004-06-10,2020-05-11
+CCI,ARCA,largecap,USD,Crown Castle International Corp.,Real Estate,Specialized REITs,1998-08-18,2020-05-11
+CCL,ARCA,largecap,USD,Carnival Corp.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1994-01-03,2020-05-11
+CDNS,ARCA,largecap,USD,Cadence Design Systems,Information Technology,Application Software,1994-01-03,2020-05-11
+CDW,ARCA,largecap,USD,CDW,Information Technology,Technology Distributors,2013-06-27,2020-05-11
+CE,ARCA,largecap,USD,Celanese,Materials,Specialty Chemicals,2005-01-21,2020-05-11
+CERN,ARCA,largecap,USD,Cerner,Health Care,Health Care Technology,1994-01-03,2020-05-11
+CF,ARCA,largecap,USD,CF Industries Holdings Inc,Materials,Fertilizers & Agricultural Chemicals,2005-08-11,2020-05-11
+CFG,ARCA,largecap,USD,Citizens Financial Group,Financials,Regional Banks,2014-09-24,2020-05-11
+CHD,ARCA,largecap,USD,Church & Dwight,Consumer Staples,Household Products,1994-01-03,2020-05-11
+CHRW,ARCA,largecap,USD,C. H. Robinson Worldwide,Industrials,Air Freight & Logistics,1997-10-16,2020-05-11
+CHTR,ARCA,largecap,USD,Charter Communications,Information Technology,Cable & Satellite,2010-01-05,2020-05-11
+CI,ARCA,largecap,USD,CIGNA Corp.,Health Care,Managed Health Care,1994-01-03,2020-05-11
+CINF,ARCA,largecap,USD,Cincinnati Financial,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+CL,ARCA,largecap,USD,Colgate-Palmolive,Consumer Staples,Household Products,1994-01-03,2020-05-11
+CLX,ARCA,largecap,USD,The Clorox Company,Consumer Staples,Household Products,1994-01-03,2020-05-11
+CMA,ARCA,largecap,USD,Comerica Inc.,Financials,Diversified Banks,1994-01-03,2020-05-11
+CMCSA,ARCA,largecap,USD,Comcast Corp.,Information Technology,Cable & Satellite,1994-01-03,2020-05-11
+CME,ARCA,largecap,USD,CME Group Inc.,Financials,Financial Exchanges & Data,2002-12-06,2020-05-11
+CMG,ARCA,largecap,USD,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,2006-01-26,2020-05-11
+CMI,ARCA,largecap,USD,Cummins Inc.,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+CMS,ARCA,largecap,USD,CMS Energy,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+CNC,ARCA,largecap,USD,Centene Corporation,Health Care,Managed Health Care,2001-12-13,2020-05-11
+CNP,ARCA,largecap,USD,CenterPoint Energy,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+COF,ARCA,largecap,USD,Capital One Financial,Financials,Consumer Finance,1994-11-16,2020-05-11
+COG,ARCA,largecap,USD,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+COO,ARCA,largecap,USD,The Cooper Companies,Health Care,Health Care Supplies,1994-01-03,2020-05-11
+COP,ARCA,largecap,USD,ConocoPhillips,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+COST,ARCA,largecap,USD,Costco Wholesale Corp.,Consumer Staples,Hypermarkets & Super Centers,1994-01-03,2020-05-11
+COTY,ARCA,largecap,USD,"Coty, Inc",Consumer Staples,Personal Products,2013-06-13,2020-05-11
+CPB,ARCA,largecap,USD,Campbell Soup,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+CPRI,ARCA,largecap,USD,Capri Holdings,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2011-12-15,2020-05-11
+CPRT,ARCA,largecap,USD,Copart Inc,Industrials,Diversified Support Services,1994-03-17,2020-05-11
+CRM,ARCA,largecap,USD,Salesforce.com,Information Technology,Application Software,2004-06-23,2020-05-11
+CSCO,ARCA,largecap,USD,Cisco Systems,Information Technology,Communications Equipment,1994-01-03,2020-05-11
+CSX,ARCA,largecap,USD,CSX Corp.,Industrials,Railroads,1994-01-03,2020-05-11
+CTAS,ARCA,largecap,USD,Cintas Corporation,Industrials,Diversified Support Services,1994-01-03,2020-05-11
+CTL,ARCA,largecap,USD,CenturyLink Inc,Information Technology,Integrated Telecommunication Services,1994-01-03,2020-05-11
+CTSH,ARCA,largecap,USD,Cognizant Technology Solutions,Information Technology,IT Consulting & Other Services,1998-06-19,2020-05-11
+CTVA,ARCA,largecap,USD,Corteva,Materials,Fertilizers & Agricultural Chemicals,2019-05-24,2020-05-11
+CTXS,ARCA,largecap,USD,Citrix Systems,Information Technology,Application Software,1995-12-08,2020-05-11
+CVS,ARCA,largecap,USD,CVS Health,Health Care,Health Care Services,1994-01-03,2020-05-11
+CVX,ARCA,largecap,USD,Chevron Corp.,Energy,Integrated Oil & Gas,1994-01-03,2020-05-11
+CXO,ARCA,largecap,USD,Concho Resources,Energy,Oil & Gas Exploration & Production,2007-08-03,2020-05-11
+D,ARCA,largecap,USD,Dominion Energy,Utilities,Electric Utilities,1994-01-03,2020-05-11
+DAL,ARCA,largecap,USD,Delta Air Lines Inc.,Industrials,Airlines,2007-05-03,2020-05-11
+DD,ARCA,largecap,USD,DuPont de Nemours Inc,Materials,Specialty Chemicals,1994-01-03,2020-05-11
+DE,ARCA,largecap,USD,Deere & Co.,Industrials,Agricultural & Farm Machinery,1994-01-03,2020-05-11
+DFS,ARCA,largecap,USD,Discover Financial Services,Financials,Consumer Finance,2007-06-14,2020-05-11
+DG,ARCA,largecap,USD,Dollar General,Consumer Discretionary,General Merchandise Stores,2009-11-13,2020-05-11
+DGX,ARCA,largecap,USD,Quest Diagnostics,Health Care,Health Care Services,1996-12-17,2020-05-11
+DHI,ARCA,largecap,USD,D. R. Horton,Consumer Discretionary,Homebuilding,1994-01-03,2020-05-11
+DHR,ARCA,largecap,USD,Danaher Corp.,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+DIS,ARCA,largecap,USD,The Walt Disney Company,Information Technology,Movies & Entertainment,1994-01-03,2020-05-11
+DISCA,ARCA,largecap,USD,Discovery Inc. Class A,Information Technology,Broadcasting,2005-07-08,2020-05-11
+DISCK,ARCA,largecap,USD,Discovery Inc. Class C,Information Technology,Broadcasting,2008-09-18,2020-05-11
+DISH,ARCA,largecap,USD,Dish Network,Information Technology,Cable & Satellite,1995-06-21,2020-05-11
+DLR,ARCA,largecap,USD,Digital Realty Trust Inc,Real Estate,Specialized REITs,2004-10-29,2020-05-11
+DLTR,ARCA,largecap,USD,Dollar Tree,Consumer Discretionary,General Merchandise Stores,1995-03-07,2020-05-11
+DOV,ARCA,largecap,USD,Dover Corp.,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+DOW,ARCA,largecap,USD,Dow Inc.,Materials,Commodity Chemicals,2019-03-20,2020-05-11
+DRE,ARCA,largecap,USD,Duke Realty Corp,Real Estate,Industrial REITs,1994-01-03,2020-05-11
+DRI,ARCA,largecap,USD,Darden Restaurants,Consumer Discretionary,Restaurants,1995-05-09,2020-05-11
+DTE,ARCA,largecap,USD,DTE Energy Co.,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+DUK,ARCA,largecap,USD,Duke Energy,Utilities,Electric Utilities,1994-01-03,2020-05-11
+DVA,ARCA,largecap,USD,DaVita Inc.,Health Care,Health Care Facilities,1995-10-31,2020-05-11
+DVN,ARCA,largecap,USD,Devon Energy,Energy,Oil & Gas Exploration & Production,1994-01-04,2020-05-11
+DXC,ARCA,largecap,USD,DXC Technology,Information Technology,IT Consulting & Other Services,1994-01-03,2020-05-11
+EA,ARCA,largecap,USD,Electronic Arts,Information Technology,Interactive Home Entertainment,1994-01-03,2020-05-11
+EBAY,ARCA,largecap,USD,eBay Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,1998-09-24,2020-05-11
+ECL,ARCA,largecap,USD,Ecolab Inc.,Materials,Specialty Chemicals,1994-01-03,2020-05-11
+ED,ARCA,largecap,USD,Consolidated Edison,Utilities,Electric Utilities,1994-01-03,2020-05-11
+EFX,ARCA,largecap,USD,Equifax Inc.,Industrials,Research & Consulting Services,1994-01-03,2020-05-11
+EIX,ARCA,largecap,USD,Edison Int'l,Utilities,Electric Utilities,1994-01-03,2020-05-11
+EL,ARCA,largecap,USD,Estee Lauder Cos.,Consumer Staples,Personal Products,1995-11-17,2020-05-11
+EMN,ARCA,largecap,USD,Eastman Chemical,Materials,Diversified Chemicals,1994-01-03,2020-05-11
+EMR,ARCA,largecap,USD,Emerson Electric Company,Industrials,Electrical Components & Equipment,1994-01-03,2020-05-11
+EOG,ARCA,largecap,USD,EOG Resources,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+EQIX,ARCA,largecap,USD,Equinix,Real Estate,Specialized REITs,2000-08-11,2020-05-11
+EQR,ARCA,largecap,USD,Equity Residential,Real Estate,Residential REITs,1994-01-03,2020-05-11
+ES,ARCA,largecap,USD,Eversource Energy,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+ESS,ARCA,largecap,USD,"Essex Property Trust, Inc.",Real Estate,Residential REITs,1994-06-07,2020-05-11
+ETFC,ARCA,largecap,USD,E*Trade,Financials,Investment Banking & Brokerage,1996-08-16,2020-05-11
+ETN,ARCA,largecap,USD,Eaton Corporation,Industrials,Electrical Components & Equipment,1994-01-03,2020-05-11
+ETR,ARCA,largecap,USD,Entergy Corp.,Utilities,Electric Utilities,1994-01-03,2020-05-11
+EVRG,ARCA,largecap,USD,Evergy,Utilities,Electric Utilities,1994-01-03,2020-05-11
+EW,ARCA,largecap,USD,Edwards Lifesciences,Health Care,Health Care Equipment,2000-03-27,2020-05-11
+EXC,ARCA,largecap,USD,Exelon Corp.,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+EXPD,ARCA,largecap,USD,Expeditors,Industrials,Air Freight & Logistics,1994-01-03,2020-05-11
+EXPE,ARCA,largecap,USD,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,2005-07-21,2020-05-11
+EXR,ARCA,largecap,USD,Extra Space Storage,Real Estate,Specialized REITs,2004-08-16,2020-05-11
+F,ARCA,largecap,USD,Ford Motor,Consumer Discretionary,Automobile Manufacturers,1994-01-03,2020-05-11
+FANG,ARCA,largecap,USD,Diamondback Energy,Energy,Oil & Gas Exploration & Production,2012-10-12,2020-05-11
+FAST,ARCA,largecap,USD,Fastenal Co,Industrials,Building Products,1994-01-03,2020-05-11
+FB,ARCA,largecap,USD,"Facebook, Inc.",Information Technology,Interactive Media & Services,2012-05-18,2020-05-11
+FBHS,ARCA,largecap,USD,Fortune Brands Home & Security,Industrials,Building Products,2011-09-16,2020-05-11
+FCX,ARCA,largecap,USD,Freeport-McMoRan Inc.,Materials,Copper,1995-07-10,2020-05-11
+FDX,ARCA,largecap,USD,FedEx Corporation,Industrials,Air Freight & Logistics,1994-01-03,2020-05-11
+FE,ARCA,largecap,USD,FirstEnergy Corp,Utilities,Electric Utilities,1997-11-10,2020-05-11
+FFIV,ARCA,largecap,USD,F5 Networks,Information Technology,Communications Equipment,1999-06-04,2020-05-11
+FIS,ARCA,largecap,USD,Fidelity National Information Services,Information Technology,Data Processing & Outsourced Services,2001-06-20,2020-05-11
+FISV,ARCA,largecap,USD,Fiserv Inc,Information Technology,Data Processing & Outsourced Services,1994-01-03,2020-05-11
+FITB,ARCA,largecap,USD,Fifth Third Bancorp,Financials,Regional Banks,1994-01-03,2020-05-11
+FLIR,ARCA,largecap,USD,FLIR Systems,Information Technology,Electronic Equipment & Instruments,1994-01-03,2020-05-11
+FLS,ARCA,largecap,USD,Flowserve Corporation,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+FLT,ARCA,largecap,USD,FleetCor Technologies Inc,Information Technology,Data Processing & Outsourced Services,2010-12-15,2020-05-11
+FMC,ARCA,largecap,USD,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,1994-01-03,2020-05-11
+FOX,ARCA,largecap,USD,Fox Corporation Class B,Information Technology,Movies & Entertainment,2019-03-13,2020-05-11
+FOXA,ARCA,largecap,USD,Fox Corporation Class A,Information Technology,Movies & Entertainment,2019-03-12,2020-05-11
+FRC,ARCA,largecap,USD,First Republic Bank,Financials,Regional Banks,2010-12-09,2020-05-11
+FRT,ARCA,largecap,USD,Federal Realty Investment Trust,Real Estate,Retail REITs,1994-01-03,2020-05-11
+FTI,ARCA,largecap,USD,TechnipFMC,Energy,Oil & Gas Equipment & Services,2001-06-15,2020-05-11
+FTNT,ARCA,largecap,USD,Fortinet,Information Technology,Systems Software,2009-11-18,2020-05-11
+FTV,ARCA,largecap,USD,Fortive Corp,Industrials,Industrial Machinery,2016-07-05,2020-05-11
+GD,ARCA,largecap,USD,General Dynamics,Industrials,Aerospace & Defense,1994-01-03,2020-05-11
+GE,ARCA,largecap,USD,General Electric,Industrials,Industrial Conglomerates,1994-01-03,2020-05-11
+GILD,ARCA,largecap,USD,Gilead Sciences,Health Care,Biotechnology,1994-01-03,2020-05-11
+GIS,ARCA,largecap,USD,General Mills,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+GL,ARCA,largecap,USD,Globe Life Inc.,Financials,Life & Health Insurance,1994-01-03,2020-05-11
+GLW,ARCA,largecap,USD,Corning Inc.,Information Technology,Electronic Components,1994-01-03,2020-05-11
+GM,ARCA,largecap,USD,General Motors,Consumer Discretionary,Automobile Manufacturers,2010-11-18,2020-05-11
+GOOG,ARCA,largecap,USD,Alphabet Inc Class C,Information Technology,Interactive Media & Services,2004-08-19,2020-05-11
+GOOGL,ARCA,largecap,USD,Alphabet Inc Class A,Information Technology,Interactive Media & Services,2004-08-19,2020-05-11
+GPC,ARCA,largecap,USD,Genuine Parts,Consumer Discretionary,Specialty Stores,1994-01-03,2020-05-11
+GPN,ARCA,largecap,USD,Global Payments Inc.,Information Technology,Data Processing & Outsourced Services,2001-01-16,2020-05-11
+GPS,ARCA,largecap,USD,Gap Inc.,Consumer Discretionary,Apparel Retail,1994-01-03,2020-05-11
+GRMN,ARCA,largecap,USD,Garmin Ltd.,Consumer Discretionary,Consumer Electronics,2000-12-08,2020-05-11
+GS,ARCA,largecap,USD,Goldman Sachs Group,Financials,Investment Banking & Brokerage,1999-05-04,2020-05-11
+GWW,ARCA,largecap,USD,Grainger (W.W.) Inc.,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+HAL,ARCA,largecap,USD,Halliburton Co.,Energy,Oil & Gas Equipment & Services,1994-01-03,2020-05-11
+HAS,ARCA,largecap,USD,Hasbro Inc.,Consumer Discretionary,Leisure Products,1994-01-03,2020-05-11
+HBAN,ARCA,largecap,USD,Huntington Bancshares,Financials,Regional Banks,1994-01-03,2020-05-11
+HBI,ARCA,largecap,USD,Hanesbrands Inc,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2006-09-06,2020-05-11
+HCA,ARCA,largecap,USD,HCA Healthcare,Health Care,Health Care Facilities,2011-03-10,2020-05-11
+HD,ARCA,largecap,USD,Home Depot,Consumer Discretionary,Home Improvement Retail,1994-01-03,2020-05-11
+HES,ARCA,largecap,USD,Hess Corporation,Energy,Integrated Oil & Gas,1994-01-03,2020-05-11
+HFC,ARCA,largecap,USD,HollyFrontier Corp,Energy,Oil & Gas Refining & Marketing,1994-01-03,2020-05-11
+HIG,ARCA,largecap,USD,Hartford Financial Svc.Gp.,Financials,Property & Casualty Insurance,1995-12-15,2020-05-11
+HII,ARCA,largecap,USD,Huntington Ingalls Industries,Industrials,Aerospace & Defense,2011-03-22,2020-05-11
+HLT,ARCA,largecap,USD,Hilton Worldwide Holdings Inc,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2013-12-12,2020-05-11
+HOG,ARCA,largecap,USD,Harley-Davidson,Consumer Discretionary,Motorcycle Manufacturers,1994-01-03,2020-05-11
+HOLX,ARCA,largecap,USD,Hologic,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+HON,ARCA,largecap,USD,Honeywell Int'l Inc.,Industrials,Industrial Conglomerates,1994-01-03,2020-05-11
+HP,ARCA,largecap,USD,Helmerich & Payne,Energy,Oil & Gas Drilling,1994-01-03,2020-05-11
+HPE,ARCA,largecap,USD,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",2015-10-19,2020-05-11
+HPQ,ARCA,largecap,USD,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",1994-01-03,2020-05-11
+HRB,ARCA,largecap,USD,Block H&R,Consumer Discretionary,Specialized Consumer Services,1994-01-03,2020-05-11
+HRL,ARCA,largecap,USD,Hormel Foods Corp.,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+HSIC,ARCA,largecap,USD,Henry Schein,Health Care,Health Care Distributors,1995-11-03,2020-05-11
+HST,ARCA,largecap,USD,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,1994-01-03,2020-05-11
+HSY,ARCA,largecap,USD,The Hershey Company,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+HUM,ARCA,largecap,USD,Humana Inc.,Health Care,Managed Health Care,1994-01-03,2020-05-11
+HWM,ARCA,largecap,USD,Howmet Aerospace,Industrials,Aerospace & Defense,2019-10-03,2020-05-11
+IBM,ARCA,largecap,USD,International Business Machines,Information Technology,IT Consulting & Other Services,1994-01-03,2020-05-11
+ICE,ARCA,largecap,USD,Intercontinental Exchange,Financials,Financial Exchanges & Data,2005-11-16,2020-05-11
+IDXX,ARCA,largecap,USD,IDEXX Laboratories,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+IEX,ARCA,largecap,USD,IDEX Corporation,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+IFF,ARCA,largecap,USD,Intl Flavors & Fragrances,Materials,Specialty Chemicals,1994-01-03,2020-05-11
+ILMN,ARCA,largecap,USD,Illumina Inc,Health Care,Life Sciences Tools & Services,2000-07-28,2020-05-11
+INCY,ARCA,largecap,USD,Incyte,Health Care,Biotechnology,1994-01-03,2020-05-11
+INFO,ARCA,largecap,USD,IHS Markit Ltd.,Industrials,Research & Consulting Services,2014-06-19,2020-05-11
+INTC,ARCA,largecap,USD,Intel Corp.,Information Technology,Semiconductors,1994-01-03,2020-05-11
+INTU,ARCA,largecap,USD,Intuit Inc.,Information Technology,Application Software,1994-01-03,2020-05-11
+IP,ARCA,largecap,USD,International Paper,Materials,Paper Packaging,1994-01-03,2020-05-11
+IPG,ARCA,largecap,USD,Interpublic Group,Information Technology,Advertising,1994-01-03,2020-05-11
+IPGP,ARCA,largecap,USD,IPG Photonics Corp.,Information Technology,Electronic Manufacturing Services,2006-12-13,2020-05-11
+IQV,ARCA,largecap,USD,IQVIA Holdings Inc.,Health Care,Life Sciences Tools & Services,2013-05-09,2020-05-11
+IR,ARCA,largecap,USD,Ingersoll-Rand PLC,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+IRM,ARCA,largecap,USD,Iron Mountain Incorporated,Real Estate,Specialized REITs,1996-02-01,2020-05-11
+ISRG,ARCA,largecap,USD,Intuitive Surgical Inc.,Health Care,Health Care Equipment,2000-06-16,2020-05-08
+IT,ARCA,largecap,USD,Gartner Inc,Information Technology,IT Consulting & Other Services,1994-01-03,2020-05-11
+ITW,ARCA,largecap,USD,Illinois Tool Works,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+IVZ,ARCA,largecap,USD,Invesco Ltd.,Financials,Asset Management & Custody Banks,1995-08-25,2020-05-11
+J,ARCA,largecap,USD,Jacobs Engineering Group,Industrials,Construction & Engineering,1994-01-03,2020-05-11
+JBHT,ARCA,largecap,USD,J. B. Hunt Transport Services,Industrials,Trucking,1994-01-03,2020-05-11
+JCI,ARCA,largecap,USD,Johnson Controls International,Industrials,Building Products,1994-01-03,2020-05-11
+JKHY,ARCA,largecap,USD,Jack Henry & Associates,Information Technology,Data Processing & Outsourced Services,1994-01-03,2020-05-08
+JNJ,ARCA,largecap,USD,Johnson & Johnson,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+JNPR,ARCA,largecap,USD,Juniper Networks,Information Technology,Communications Equipment,1999-06-25,2020-05-11
+JPM,ARCA,largecap,USD,JPMorgan Chase & Co.,Financials,Diversified Banks,1994-01-03,2020-05-11
+JWN,ARCA,largecap,USD,Nordstrom,Consumer Discretionary,Department Stores,1994-01-03,2020-05-11
+K,ARCA,largecap,USD,Kellogg Co.,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+KEY,ARCA,largecap,USD,KeyCorp,Financials,Regional Banks,1994-01-03,2020-05-11
+KEYS,ARCA,largecap,USD,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,2014-10-20,2020-05-08
+KHC,ARCA,largecap,USD,Kraft Heinz Co,Consumer Staples,Packaged Foods & Meats,2015-07-06,2020-05-11
+KIM,ARCA,largecap,USD,Kimco Realty,Real Estate,Retail REITs,1994-01-03,2020-05-11
+KLAC,ARCA,largecap,USD,KLA Corporation,Information Technology,Semiconductor Equipment,1994-01-03,2020-05-11
+KMB,ARCA,largecap,USD,Kimberly-Clark,Consumer Staples,Household Products,1994-01-03,2020-05-11
+KMI,ARCA,largecap,USD,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,2011-02-11,2020-05-11
+KMX,ARCA,largecap,USD,Carmax Inc,Consumer Discretionary,Specialty Stores,1997-02-04,2020-05-11
+KO,ARCA,largecap,USD,Coca-Cola Company,Consumer Staples,Soft Drinks,1994-01-03,2020-05-11
+KR,ARCA,largecap,USD,Kroger Co.,Consumer Staples,Food Retail,1994-01-03,2020-05-08
+KSS,ARCA,largecap,USD,Kohl's Corp.,Consumer Discretionary,General Merchandise Stores,1994-01-03,2020-05-11
+KSU,ARCA,largecap,USD,Kansas City Southern,Industrials,Railroads,1994-01-03,2020-05-11
+L,ARCA,largecap,USD,Loews Corp.,Financials,Multi-line Insurance,1994-01-03,2020-05-11
+LB,ARCA,largecap,USD,L Brands Inc.,Consumer Discretionary,Apparel Retail,1994-01-03,2020-05-11
+LDOS,ARCA,largecap,USD,Leidos Holdings,Information Technology,IT Consulting & Other Services,2006-10-17,2020-05-11
+LEG,ARCA,largecap,USD,Leggett & Platt,Consumer Discretionary,Home Furnishings,1994-01-03,2020-05-11
+LEN,ARCA,largecap,USD,Lennar Corp.,Consumer Discretionary,Homebuilding,1994-01-03,2020-05-11
+LH,ARCA,largecap,USD,Laboratory Corp. of America Holding,Health Care,Health Care Services,1994-01-03,2020-05-11
+LHX,ARCA,largecap,USD,L3Harris Technologies,Industrials,Aerospace & Defense,1994-01-03,2020-05-11
+LIN,ARCA,largecap,USD,Linde plc,Materials,Industrial Gases,1994-01-03,2020-05-11
+LKQ,ARCA,largecap,USD,LKQ Corporation,Consumer Discretionary,Distributors,2003-10-06,2020-05-08
+LLY,ARCA,largecap,USD,Lilly (Eli) & Co.,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+LMT,ARCA,largecap,USD,Lockheed Martin Corp.,Industrials,Aerospace & Defense,1994-01-03,2020-05-11
+LNC,ARCA,largecap,USD,Lincoln National,Financials,Multi-line Insurance,1994-01-03,2020-05-11
+LNT,ARCA,largecap,USD,Alliant Energy Corp,Utilities,Electric Utilities,1994-01-03,2020-05-11
+LOW,ARCA,largecap,USD,Lowe's Cos.,Consumer Discretionary,Home Improvement Retail,1994-01-03,2020-05-11
+LRCX,ARCA,largecap,USD,Lam Research,Information Technology,Semiconductor Equipment,1994-01-03,2020-05-11
+LUV,ARCA,largecap,USD,Southwest Airlines,Industrials,Airlines,1994-01-03,2020-05-11
+LVS,ARCA,largecap,USD,Las Vegas Sands Corp,Consumer Discretionary,Casinos & Gaming,2004-12-15,2020-05-11
+LW,ARCA,largecap,USD,Lamb Weston Holdings Inc,Consumer Staples,Packaged Foods & Meats,2016-11-10,2020-05-11
+LYB,ARCA,largecap,USD,LyondellBasell,Materials,Specialty Chemicals,2010-04-28,2020-05-11
+LYV,ARCA,largecap,USD,Live Nation Entertainment,Information Technology,Movies & Entertainment,2005-12-21,2020-05-11
+M,ARCA,largecap,USD,Macy's Inc.,Consumer Discretionary,Department Stores,1994-01-03,2020-05-11
+MA,ARCA,largecap,USD,Mastercard Inc.,Information Technology,Data Processing & Outsourced Services,2006-05-25,2020-05-11
+MAA,ARCA,largecap,USD,Mid-America Apartments,Real Estate,Residential REITs,1994-01-28,2020-05-08
+MAC,ARCA,largecap,USD,Macerich,Real Estate,Retail REITs,1994-03-10,2020-05-11
+MAR,ARCA,largecap,USD,Marriott Int'l.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1994-01-03,2020-05-11
+MAS,ARCA,largecap,USD,Masco Corp.,Industrials,Building Products,1994-01-03,2020-05-11
+MCD,ARCA,largecap,USD,McDonald's Corp.,Consumer Discretionary,Restaurants,1994-01-03,2020-05-11
+MCHP,ARCA,largecap,USD,Microchip Technology,Information Technology,Semiconductors,1994-01-03,2020-05-11
+MCK,ARCA,largecap,USD,McKesson Corp.,Health Care,Health Care Distributors,1994-11-10,2020-05-11
+MCO,ARCA,largecap,USD,Moody's Corp,Financials,Financial Exchanges & Data,1994-10-31,2020-05-11
+MDLZ,ARCA,largecap,USD,Mondelez International,Consumer Staples,Packaged Foods & Meats,2001-06-13,2020-05-11
+MDT,ARCA,largecap,USD,Medtronic plc,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+MET,ARCA,largecap,USD,MetLife Inc.,Financials,Life & Health Insurance,2000-04-05,2020-05-11
+MGM,ARCA,largecap,USD,MGM Resorts International,Consumer Discretionary,Casinos & Gaming,1994-01-03,2020-05-11
+MHK,ARCA,largecap,USD,Mohawk Industries,Consumer Discretionary,Home Furnishings,1994-01-03,2020-05-11
+MKC,ARCA,largecap,USD,McCormick & Co.,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+MKTX,ARCA,largecap,USD,MarketAxess,Financials,Financial Exchanges & Data,2004-11-05,2020-05-11
+MLM,ARCA,largecap,USD,Martin Marietta Materials,Materials,Construction Materials,1994-02-17,2020-05-11
+MMC,ARCA,largecap,USD,Marsh & McLennan,Financials,Insurance Brokers,1994-01-03,2020-05-08
+MMM,ARCA,largecap,USD,3M Company,Industrials,Industrial Conglomerates,1994-01-03,2020-05-11
+MNST,ARCA,largecap,USD,Monster Beverage,Consumer Staples,Soft Drinks,1994-01-03,2020-05-11
+MO,ARCA,largecap,USD,Altria Group Inc,Consumer Staples,Tobacco,1994-01-03,2020-05-11
+MOS,ARCA,largecap,USD,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,1994-01-03,2020-05-11
+MPC,ARCA,largecap,USD,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,2011-06-24,2020-05-11
+MRK,ARCA,largecap,USD,Merck & Co.,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+MRO,ARCA,largecap,USD,Marathon Oil Corp.,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+MS,ARCA,largecap,USD,Morgan Stanley,Financials,Investment Banking & Brokerage,1994-01-03,2020-05-11
+MSCI,ARCA,largecap,USD,MSCI Inc,Financials,Financial Exchanges & Data,2007-11-15,2020-05-11
+MSFT,ARCA,largecap,USD,Microsoft Corp.,Information Technology,Systems Software,1994-01-03,2020-05-11
+MSI,ARCA,largecap,USD,Motorola Solutions Inc.,Information Technology,Communications Equipment,1994-01-03,2020-05-11
+MTB,ARCA,largecap,USD,M&T Bank Corp.,Financials,Regional Banks,1994-01-03,2020-05-11
+MTD,ARCA,largecap,USD,Mettler Toledo,Health Care,Life Sciences Tools & Services,1997-11-14,2020-05-11
+MU,ARCA,largecap,USD,Micron Technology,Information Technology,Semiconductors,1994-01-03,2020-05-11
+MXIM,ARCA,largecap,USD,Maxim Integrated Products Inc,Information Technology,Semiconductors,1994-01-03,2020-05-11
+MYL,ARCA,largecap,USD,Mylan N.V.,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+NBL,ARCA,largecap,USD,Noble Energy Inc,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+NCLH,ARCA,largecap,USD,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2013-01-18,2020-05-11
+NDAQ,ARCA,largecap,USD,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,2002-07-01,2020-05-11
+NEE,ARCA,largecap,USD,NextEra Energy,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+NEM,ARCA,largecap,USD,Newmont Goldcorp,Materials,Gold,1994-01-03,2020-05-11
+NFLX,ARCA,largecap,USD,Netflix Inc.,Information Technology,Movies & Entertainment,2002-05-23,2020-05-08
+NI,ARCA,largecap,USD,NiSource Inc.,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+NKE,ARCA,largecap,USD,Nike,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1994-01-03,2020-05-11
+NLOK,ARCA,largecap,USD,NortonLifeLock,Information Technology,Application Software,2019-03-08,2020-05-11
+NLSN,ARCA,largecap,USD,Nielsen Holdings,Industrials,Research & Consulting Services,2011-01-27,2020-05-11
+NOC,ARCA,largecap,USD,Northrop Grumman,Industrials,Aerospace & Defense,1994-01-03,2020-05-08
+NOV,ARCA,largecap,USD,National Oilwell Varco Inc.,Energy,Oil & Gas Equipment & Services,1996-10-29,2020-05-11
+NOW,ARCA,largecap,USD,ServiceNow,Information Technology,Systems Software,2012-06-29,2020-05-11
+NRG,ARCA,largecap,USD,NRG Energy,Utilities,Independent Power Producers & Energy Traders,2003-12-02,2020-05-11
+NSC,ARCA,largecap,USD,Norfolk Southern Corp.,Industrials,Railroads,1994-01-03,2020-05-11
+NTAP,ARCA,largecap,USD,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",1995-11-21,2020-05-11
+NTRS,ARCA,largecap,USD,Northern Trust Corp.,Financials,Asset Management & Custody Banks,1994-01-03,2020-05-11
+NUE,ARCA,largecap,USD,Nucor Corp.,Materials,Steel,1994-01-03,2020-05-11
+NVDA,ARCA,largecap,USD,Nvidia Corporation,Information Technology,Semiconductors,1999-01-22,2020-05-11
+NVR,ARCA,largecap,USD,NVR Inc,Consumer Discretionary,Homebuilding,1994-01-03,2020-05-08
+NWL,ARCA,largecap,USD,Newell Brands,Consumer Discretionary,Housewares & Specialties,1994-01-03,2020-05-11
+NWSA,ARCA,largecap,USD,News Corp. Class A,Information Technology,Publishing,2013-06-19,2020-05-11
+O,ARCA,largecap,USD,Realty Income Corporation,Real Estate,Retail REITs,1994-10-18,2020-05-11
+ODFL,ARCA,largecap,USD,Old Dominion Freight Line,Industrials,Trucking,1994-01-03,2020-05-11
+OKE,ARCA,largecap,USD,ONEOK,Energy,Oil & Gas Storage & Transportation,1994-01-03,2020-05-11
+OMC,ARCA,largecap,USD,Omnicom Group,Information Technology,Advertising,1994-01-03,2020-05-08
+ORCL,ARCA,largecap,USD,Oracle Corp.,Information Technology,Application Software,1994-01-03,2020-05-11
+ORLY,ARCA,largecap,USD,O'Reilly Automotive,Consumer Discretionary,Specialty Stores,1994-01-03,2020-05-11
+OTIS,ARCA,largecap,USD,Otis Worldwide,Industrials,Industrial Machinery,2020-03-19,2020-05-11
+OXY,ARCA,largecap,USD,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,1994-01-03,2020-05-11
+PAYC,ARCA,largecap,USD,Paycom,Information Technology,Application Software,2014-04-15,2020-05-08
+PAYX,ARCA,largecap,USD,Paychex Inc.,Information Technology,Data Processing & Outsourced Services,1994-01-03,2020-05-11
+PBCT,ARCA,largecap,USD,People's United Financial,Financials,Thrifts & Mortgage Finance,1994-01-03,2020-05-11
+PCAR,ARCA,largecap,USD,PACCAR Inc.,Industrials,Construction Machinery & Heavy Trucks,1994-01-03,2020-05-11
+PEAK,ARCA,largecap,USD,Healthpeak Properties,Real Estate,Health Care REITs,1994-01-03,2020-05-11
+PEG,ARCA,largecap,USD,Public Serv. Enterprise Inc.,Utilities,Electric Utilities,1994-01-03,2020-05-11
+PEP,ARCA,largecap,USD,PepsiCo Inc.,Consumer Staples,Soft Drinks,1994-01-03,2020-05-11
+PFE,ARCA,largecap,USD,Pfizer Inc.,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+PFG,ARCA,largecap,USD,Principal Financial Group,Financials,Life & Health Insurance,2001-10-23,2020-05-11
+PG,ARCA,largecap,USD,Procter & Gamble,Consumer Staples,Personal Products,1994-01-03,2020-05-08
+PGR,ARCA,largecap,USD,Progressive Corp.,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+PH,ARCA,largecap,USD,Parker-Hannifin,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+PHM,ARCA,largecap,USD,Pulte Homes Inc.,Consumer Discretionary,Homebuilding,1994-01-03,2020-05-11
+PKG,ARCA,largecap,USD,Packaging Corporation of America,Materials,Paper Packaging,2000-01-28,2020-05-11
+PKI,ARCA,largecap,USD,PerkinElmer,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+PLD,ARCA,largecap,USD,Prologis,Real Estate,Industrial REITs,1997-11-21,2020-05-11
+PM,ARCA,largecap,USD,Philip Morris International,Consumer Staples,Tobacco,2008-03-17,2020-05-11
+PNC,ARCA,largecap,USD,PNC Financial Services,Financials,Regional Banks,1994-01-03,2020-05-11
+PNR,ARCA,largecap,USD,Pentair plc,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+PNW,ARCA,largecap,USD,Pinnacle West Capital,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+PPG,ARCA,largecap,USD,PPG Industries,Materials,Specialty Chemicals,1994-01-03,2020-05-08
+PPL,ARCA,largecap,USD,PPL Corp.,Utilities,Electric Utilities,1994-01-03,2020-05-08
+PRGO,ARCA,largecap,USD,Perrigo,Health Care,Pharmaceuticals,1994-01-03,2020-05-11
+PRU,ARCA,largecap,USD,Prudential Financial,Financials,Life & Health Insurance,2001-12-13,2020-05-11
+PSA,ARCA,largecap,USD,Public Storage,Real Estate,Specialized REITs,1994-01-03,2020-05-11
+PSX,ARCA,largecap,USD,Phillips 66,Energy,Oil & Gas Refining & Marketing,2012-04-12,2020-05-11
+PVH,ARCA,largecap,USD,PVH Corp.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1994-01-03,2020-05-11
+PWR,ARCA,largecap,USD,Quanta Services Inc.,Industrials,Construction & Engineering,1998-02-12,2020-05-11
+PXD,ARCA,largecap,USD,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,1997-08-08,2020-05-11
+PYPL,ARCA,largecap,USD,PayPal,Information Technology,Data Processing & Outsourced Services,2015-07-06,2020-05-11
+QCOM,ARCA,largecap,USD,QUALCOMM Inc.,Information Technology,Semiconductors,1994-01-03,2020-05-11
+QRVO,ARCA,largecap,USD,Qorvo,Information Technology,Semiconductors,2015-01-02,2020-05-11
+RCL,ARCA,largecap,USD,Royal Caribbean Cruises Ltd,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1994-01-03,2020-05-11
+RE,ARCA,largecap,USD,Everest Re Group Ltd.,Financials,Reinsurance,1995-10-03,2020-05-11
+REG,ARCA,largecap,USD,Regency Centers Corporation,Real Estate,Retail REITs,1994-01-03,2020-05-11
+REGN,ARCA,largecap,USD,Regeneron Pharmaceuticals,Health Care,Biotechnology,1994-01-03,2020-05-11
+RF,ARCA,largecap,USD,Regions Financial Corp.,Financials,Regional Banks,1994-01-03,2020-05-11
+RHI,ARCA,largecap,USD,Robert Half International,Industrials,Human Resource & Employment Services,1994-01-03,2020-05-11
+RJF,ARCA,largecap,USD,Raymond James Financial Inc.,Financials,Investment Banking & Brokerage,1994-01-03,2020-05-11
+RL,ARCA,largecap,USD,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1997-06-12,2020-05-11
+RMD,ARCA,largecap,USD,ResMed,Health Care,Health Care Equipment,1995-06-02,2020-05-11
+ROK,ARCA,largecap,USD,Rockwell Automation Inc.,Industrials,Electrical Components & Equipment,1994-01-03,2020-05-11
+ROL,ARCA,largecap,USD,Rollins Inc.,Industrials,Environmental & Facilities Services,1994-01-03,2020-05-11
+ROP,ARCA,largecap,USD,Roper Technologies,Industrials,Industrial Conglomerates,1994-01-03,2020-05-11
+ROST,ARCA,largecap,USD,Ross Stores,Consumer Discretionary,Apparel Retail,1994-01-03,2020-05-11
+RSG,ARCA,largecap,USD,Republic Services Inc,Industrials,Environmental & Facilities Services,1998-07-01,2020-05-08
+RTX,ARCA,largecap,USD,Raytheon Technologies,Industrials,Aerospace & Defense,1994-01-03,2020-05-08
+SBAC,ARCA,largecap,USD,SBA Communications,Real Estate,Specialized REITs,1999-06-16,2020-05-08
+SBUX,ARCA,largecap,USD,Starbucks Corp.,Consumer Discretionary,Restaurants,1994-01-03,2020-05-11
+SCHW,ARCA,largecap,USD,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,1994-01-03,2020-05-11
+SEE,ARCA,largecap,USD,Sealed Air,Materials,Paper Packaging,1994-01-03,2020-05-11
+SHW,ARCA,largecap,USD,Sherwin-Williams,Materials,Specialty Chemicals,1994-01-03,2020-05-11
+SIVB,ARCA,largecap,USD,SVB Financial,Financials,Regional Banks,1994-01-03,2020-05-08
+SJM,ARCA,largecap,USD,JM Smucker,Consumer Staples,Packaged Foods & Meats,1994-10-31,2020-05-11
+SLB,ARCA,largecap,USD,Schlumberger Ltd.,Energy,Oil & Gas Equipment & Services,1994-01-03,2020-05-11
+SLG,ARCA,largecap,USD,SL Green Realty,Real Estate,Office REITs,1997-08-15,2020-05-11
+SNA,ARCA,largecap,USD,Snap-on,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+SNPS,ARCA,largecap,USD,Synopsys Inc.,Information Technology,Application Software,1994-01-03,2020-05-11
+SO,ARCA,largecap,USD,Southern Co.,Utilities,Electric Utilities,1994-01-03,2020-05-11
+SPG,ARCA,largecap,USD,Simon Property Group Inc,Real Estate,Retail REITs,1994-01-03,2020-05-08
+SPGI,ARCA,largecap,USD,"S&P Global, Inc.",Financials,Financial Exchanges & Data,1994-01-03,2020-05-11
+SRE,ARCA,largecap,USD,Sempra Energy,Utilities,Multi-Utilities,1998-06-29,2020-05-11
+STE,ARCA,largecap,USD,STERIS plc,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+STT,ARCA,largecap,USD,State Street Corp.,Financials,Asset Management & Custody Banks,1994-01-03,2020-05-11
+STX,ARCA,largecap,USD,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",2002-12-11,2020-05-11
+STZ,ARCA,largecap,USD,Constellation Brands,Consumer Staples,Distillers & Vintners,1994-01-03,2020-05-11
+SWK,ARCA,largecap,USD,Stanley Black & Decker,Industrials,Industrial Machinery,1994-01-03,2020-05-11
+SWKS,ARCA,largecap,USD,Skyworks Solutions,Information Technology,Semiconductors,1994-01-03,2020-05-11
+SYF,ARCA,largecap,USD,Synchrony Financial,Financials,Consumer Finance,2014-07-31,2020-05-08
+SYK,ARCA,largecap,USD,Stryker Corp.,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+SYY,ARCA,largecap,USD,Sysco Corp.,Consumer Staples,Food Distributors,1994-01-03,2020-05-11
+T,ARCA,largecap,USD,AT&T Inc.,Information Technology,Integrated Telecommunication Services,1994-01-03,2020-05-11
+TAP,ARCA,largecap,USD,Molson Coors Brewing Company,Consumer Staples,Brewers,1994-01-03,2020-05-11
+TDG,ARCA,largecap,USD,TransDigm Group,Industrials,Aerospace & Defense,2006-03-15,2020-05-08
+TEL,ARCA,largecap,USD,TE Connectivity Ltd.,Information Technology,Electronic Manufacturing Services,2007-06-14,2020-05-11
+TFC,ARCA,largecap,USD,Truist Financial,Financials,Regional Banks,1994-01-03,2020-05-11
+TFX,ARCA,largecap,USD,Teleflex,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+TGT,ARCA,largecap,USD,Target Corp.,Consumer Discretionary,General Merchandise Stores,1994-01-03,2020-05-11
+TIF,ARCA,largecap,USD,Tiffany & Co.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1994-01-03,2020-05-11
+TJX,ARCA,largecap,USD,TJX Companies Inc.,Consumer Discretionary,Apparel Retail,1994-01-03,2020-05-11
+TMO,ARCA,largecap,USD,Thermo Fisher Scientific,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+TMUS,ARCA,largecap,USD,T-Mobile US,Information Technology,Wireless Telecommunication Services,2007-04-19,2020-05-11
+TPR,ARCA,largecap,USD,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2000-10-06,2020-05-11
+TRIP,ARCA,largecap,USD,TripAdvisor,Information Technology,Interactive Media & Services,2011-12-07,2020-05-11
+TROW,ARCA,largecap,USD,T. Rowe Price Group,Financials,Asset Management & Custody Banks,1994-01-03,2020-05-11
+TRV,ARCA,largecap,USD,The Travelers Companies Inc.,Financials,Property & Casualty Insurance,1994-01-03,2020-05-11
+TSCO,ARCA,largecap,USD,Tractor Supply Company,Consumer Discretionary,Specialty Stores,1994-02-17,2020-05-11
+TSLA,ARCA,largecap,USD,Tesla Inc,Consumer Discretionary,Automobile,2010-06-29,2020-05-11
+TSN,ARCA,largecap,USD,Tyson Foods,Consumer Staples,Packaged Foods & Meats,1994-01-03,2020-05-11
+TT,ARCA,largecap,USD,Trane Technologies plc,Industrials,Building Products,1998-06-03,2020-05-11
+TTWO,ARCA,largecap,USD,Take-Two Interactive,Information Technology,Interactive Home Entertainment,1997-04-15,2020-05-11
+TWTR,ARCA,largecap,USD,"Twitter, Inc.",Information Technology,Interactive Media & Services,2013-11-07,2020-05-11
+TXN,ARCA,largecap,USD,Texas Instruments,Information Technology,Semiconductors,1994-01-03,2020-05-11
+TXT,ARCA,largecap,USD,Textron Inc.,Industrials,Aerospace & Defense,1994-01-03,2020-05-08
+UA,ARCA,largecap,USD,Under Armour Class C,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2015-07-01,2020-05-11
+UAA,ARCA,largecap,USD,Under Armour Class A,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005-11-18,2020-05-11
+UAL,ARCA,largecap,USD,United Airlines Holdings,Industrials,Airlines,2006-02-06,2020-05-11
+UDR,ARCA,largecap,USD,"UDR, Inc.",Real Estate,Residential REITs,1994-01-03,2020-05-08
+UHS,ARCA,largecap,USD,"Universal Health Services, Inc.",Health Care,Health Care Facilities,1994-01-03,2020-05-11
+ULTA,ARCA,largecap,USD,Ulta Beauty,Consumer Discretionary,Specialty Stores,2007-10-25,2020-05-11
+UNH,ARCA,largecap,USD,United Health Group Inc.,Health Care,Managed Health Care,1994-01-03,2020-05-08
+UNM,ARCA,largecap,USD,Unum Group,Financials,Life & Health Insurance,1994-01-03,2020-05-11
+UNP,ARCA,largecap,USD,Union Pacific Corp,Industrials,Railroads,1994-01-03,2020-05-11
+UPS,ARCA,largecap,USD,United Parcel Service,Industrials,Air Freight & Logistics,1999-11-10,2020-05-11
+URI,ARCA,largecap,USD,"United Rentals, Inc.",Industrials,Trading Companies & Distributors,1997-12-18,2020-05-11
+USB,ARCA,largecap,USD,U.S. Bancorp,Financials,Diversified Banks,1994-01-03,2020-05-11
+V,ARCA,largecap,USD,Visa Inc.,Information Technology,Data Processing & Outsourced Services,2008-03-19,2020-05-11
+VAR,ARCA,largecap,USD,Varian Medical Systems,Health Care,Health Care Equipment,1994-01-03,2020-05-11
+VFC,ARCA,largecap,USD,V.F. Corp.,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1994-01-03,2020-05-11
+VIAC,ARCA,largecap,USD,ViacomCBS,Information Technology,Movies & Entertainment,2019-06-26,2020-05-08
+VLO,ARCA,largecap,USD,Valero Energy,Energy,Oil & Gas Refining & Marketing,1994-01-03,2020-05-11
+VMC,ARCA,largecap,USD,Vulcan Materials,Materials,Construction Materials,1994-01-03,2020-05-11
+VNO,ARCA,largecap,USD,Vornado Realty Trust,Real Estate,Office REITs,1994-01-03,2020-05-11
+VRSK,ARCA,largecap,USD,Verisk Analytics,Industrials,Research & Consulting Services,2009-10-07,2020-05-11
+VRSN,ARCA,largecap,USD,Verisign Inc.,Information Technology,Internet Services & Infrastructure,1998-01-30,2020-05-11
+VRTX,ARCA,largecap,USD,Vertex Pharmaceuticals Inc,Health Care,Biotechnology,1994-01-03,2020-05-11
+VTR,ARCA,largecap,USD,Ventas Inc,Real Estate,Health Care REITs,1997-05-05,2020-05-11
+VZ,ARCA,largecap,USD,Verizon Communications,Information Technology,Integrated Telecommunication Services,1994-01-03,2020-05-08
+WAB,ARCA,largecap,USD,Wabtec Corporation,Industrials,Construction Machinery & Heavy Trucks,1995-06-16,2020-05-11
+WAT,ARCA,largecap,USD,Waters Corporation,Health Care,Health Care Distributors,1995-11-17,2020-05-11
+WBA,ARCA,largecap,USD,Walgreens Boots Alliance,Consumer Staples,Drug Retail,1994-01-03,2020-05-11
+WDC,ARCA,largecap,USD,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",1994-01-03,2020-05-11
+WEC,ARCA,largecap,USD,Wec Energy Group Inc,Utilities,Electric Utilities,1994-01-03,2020-05-08
+WELL,ARCA,largecap,USD,Welltower Inc.,Real Estate,Health Care REITs,1994-01-03,2020-05-11
+WFC,ARCA,largecap,USD,Wells Fargo,Financials,Diversified Banks,1994-01-03,2020-05-11
+WHR,ARCA,largecap,USD,Whirlpool Corp.,Consumer Discretionary,Household Appliances,1994-01-03,2020-05-11
+WLTW,ARCA,largecap,USD,Willis Towers Watson,Financials,Insurance Brokers,2001-06-12,2020-05-05
+WM,ARCA,largecap,USD,Waste Management Inc.,Industrials,Environmental & Facilities Services,1994-01-03,2020-05-05
+WMB,ARCA,largecap,USD,Williams Cos.,Energy,Oil & Gas Storage & Transportation,1994-01-03,2020-05-05
+WMT,ARCA,largecap,USD,Walmart,Consumer Staples,Hypermarkets & Super Centers,1994-01-03,2020-05-11
+WRB,ARCA,largecap,USD,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,1994-01-03,2020-05-08
+WRK,ARCA,largecap,USD,WestRock,Materials,Paper Packaging,2015-06-24,2020-05-11
+WU,ARCA,largecap,USD,Western Union Co,Information Technology,Data Processing & Outsourced Services,2006-10-02,2020-05-05
+WY,ARCA,largecap,USD,Weyerhaeuser,Real Estate,Specialized REITs,1994-01-03,2020-05-11
+WYNN,ARCA,largecap,USD,Wynn Resorts Ltd,Consumer Discretionary,Casinos & Gaming,2002-10-25,2020-05-05
+XEC,ARCA,largecap,USD,Cimarex Energy,Energy,Oil & Gas Exploration & Production,2002-09-25,2020-05-11
+XEL,ARCA,largecap,USD,Xcel Energy Inc,Utilities,Multi-Utilities,1994-01-03,2020-05-11
+XLNX,ARCA,largecap,USD,Xilinx,Information Technology,Semiconductors,1994-01-03,2020-05-11
+XOM,ARCA,largecap,USD,Exxon Mobil Corp.,Energy,Integrated Oil & Gas,1994-01-03,2020-05-11
+XRAY,ARCA,largecap,USD,Dentsply Sirona,Health Care,Health Care Supplies,1994-01-03,2020-05-11
+XRX,ARCA,largecap,USD,Xerox,Information Technology,"Technology Hardware, Storage & Peripherals",1994-01-03,2020-05-05
+XYL,ARCA,largecap,USD,Xylem Inc.,Industrials,Industrial Machinery,2011-10-13,2020-05-11
+YUM,ARCA,largecap,USD,Yum! Brands Inc,Consumer Discretionary,Restaurants,1997-09-17,2020-05-11
+ZBH,ARCA,largecap,USD,Zimmer Biomet Holdings,Health Care,Health Care Equipment,2001-07-25,2020-05-11
+ZBRA,ARCA,largecap,USD,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,1994-01-03,2020-05-11
+ZION,ARCA,largecap,USD,Zions Bancorp,Financials,Regional Banks,1994-01-03,2020-05-11
+ZTS,ARCA,largecap,USD,Zoetis,Health Care,Pharmaceuticals,2013-02-01,2020-05-11
