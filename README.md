@@ -11,7 +11,8 @@ https://medium.com/@willbillionquant/%E8%B8%8F%E7%A0%B4%E9%90%B5%E9%9E%8B%E7%84%
 Program for scraping earning calendar for S&P 500 index compoenents. Reference article:
 https://www.patreon.com/posts/36538035
 
-* [indices_deepcrash](https://github.com/willbillionquant/python-r-qtrade/tree/master/indices_deepcrash)
+* [Tech_statistics](https://github.com/willbillionquant/python-r-qtrade/tree/master/tech_statistics)
 
-Jupyter notebook for statistics on SPX buy-and-hold after deep market crashes. Reference article:
-https://medium.com/@willbillionquant/%E5%A4%A7%E5%9E%8B%E8%82%A1%E7%81%BD%E9%80%94%E4%B8%AD%E6%8C%81%E8%B2%A8%E7%AD%96%E7%95%A5%E5%9B%9E%E6%B8%AC-3ae507a7403b
+Jupyter notebooks for technical statistics. Published research includes:
+	- Backtesting buying opportunities in the course of huge stock market drawdown: reference article
+	  https://www.patreon.com/posts/36527852
