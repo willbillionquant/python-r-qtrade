@@ -14,5 +14,5 @@ https://www.patreon.com/posts/36538035
 * [Tech_statistics](https://github.com/willbillionquant/python-r-qtrade/tree/master/tech_statistics)
 
 Jupyter notebooks for technical statistics. Published research includes:
-	- Backtesting buying opportunities in the course of huge stock market drawdown: reference article
-	  https://www.patreon.com/posts/36527852
+- Backtesting buying opportunities in the course of huge stock market drawdown: reference article
+  https://www.patreon.com/posts/36527852
