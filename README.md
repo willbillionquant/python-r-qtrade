@@ -9,9 +9,4 @@ Jupyter notebook for simple examples of various finance data APIs: https://www.p
 
 Program for scraping earning calendar for S&P 500 index compoenents: https://www.patreon.com/posts/36538035
 
-* [Tech_statistics](https://github.com/willbillionquant/python-r-qtrade/tree/master/tech_statistics)
 
-Jupyter notebooks for technical statistics. Published research includes:
-- Backtesting buying opportunities in the course of huge stock market drawdown: https://www.patreon.com/posts/36527852
-  
-- Abnormal Gap: https://www.patreon.com/posts/38455275
